@@ -1,0 +1,5 @@
+#data files
+*.txt
+
+#Folder
+__pycache__/
